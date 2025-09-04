@@ -10,7 +10,7 @@
   </style>
 </head>
 <body>
-  <p>
+    <p>
     <h1 style="background-color: powderblue;">Hello World!</h1>
     <div><figure>
     <img src="formal_picture.jpg" alt="Alt text" style="float:right;width:200px;heigth:400px;">
