@@ -1,7 +1,8 @@
 <html>
 <head>
   <style>
-    body {background-color: LightGray; text-align: center}
+    body {background-color: LightGray;}
+    h1 {text-align: center}
   </style>
 </head>
 <body>
