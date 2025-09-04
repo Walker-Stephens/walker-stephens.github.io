@@ -1,4 +1,4 @@
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<h1 style="background-color:LightGray;">Hello World</h1>
 <body>
 <p>
 <img src="formal_picture.jpg" alt="Alt text" style= "float:right;width:200px;heigth:400px;">
