@@ -1,6 +1,7 @@
 <html>
 <head>
   <title>Walker Stephens</title>
+  <meta name="description" content="A website that showcases Walker Stephens' information and projects.">
   <style>
     body {background-color: LightGray;}
     h1 {text-align: center}
