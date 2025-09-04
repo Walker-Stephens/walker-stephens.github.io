@@ -1,3 +1,3 @@
 # Hello World!
 Welcome to my website!  
-[Picture of me](/formal_picture.jpg?raw=true)
+[Picture of me](formal_picture.jpg)
