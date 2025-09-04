@@ -1,5 +1,6 @@
 <html>
 <head>
+  <title>Walker Stephens</title>
   <style>
     body {background-color: LightGray;}
     h1 {text-align: center}
