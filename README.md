@@ -7,6 +7,7 @@
   <style>
     body {background-color: LightGray;}
     h1 {text-align: center}
+    figure {display: block}
   </style>
 </head>
 <body>
