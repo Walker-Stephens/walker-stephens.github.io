@@ -18,7 +18,27 @@
     Welcome to my website!<br>  
     My name is <b>Walker Stephens</b> and I am a current student at Dalton State
     and a former student at the University of Georgia.</p>
-  <p>
-    <a href="Resume 08-25-2025.docx"> View my resume.</a> </p>
+  <table>
+    <tr>
+      <th>Information</th>
+      <th>Link</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Resume</td>
+      <td><a href="Resume 08-25-2025.docx">Resume for Walker Stephens</a></td>
+      <td>Current resume in a format that can be printed or saved for distribution.</td>
+    </tr>
+    <tr>
+      <td>Personal GitHub</td>
+      <td><a href="https://github.com/Walker-Stephens"> Walker-Stephens</a></td>
+      <td>My personal GitHub account with various projects.</td>
+    </tr>
+    <tr>
+      <td>School GitHub</td>
+      <td><a href="https://github.com/WeStephens97"> WeStephens97</a></td>
+      <td>My school GitHub containing school assigned projects.</td>
+    </tr>
+  </table>
 </body>
 </html>
