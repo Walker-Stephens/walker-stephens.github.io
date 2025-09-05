@@ -13,15 +13,10 @@
 <body>
     <p>
     <h1 style="background-color: powderblue;">Hello World!</h1></p>
-    <div>
-    <figure>
     <img src="formal_picture.jpg" alt="Alt text" style="float:right;width:200px;heigth:400px;">
-    <figcaption><a href="Resume 08-25-2025.docx"> View my resume.</a></figcaption>
-    </figure>
-    </div>
   <p>
     Welcome to my website!<br>  
-    My name is <b>Walker Stephens</b> <br>and I am a current student at Dalton State
+    My name is <b>Walker Stephens</b> and I am a current student at Dalton State
     and a former student<br> at the University of Georgia.</p>
   <p>
     <a href="Resume 08-25-2025.docx"> View my resume.</a> </p>
