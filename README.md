@@ -17,7 +17,7 @@
   <p>
     Welcome to my website!<br>  
     My name is <b>Walker Stephens</b> and I am a current student at Dalton State
-    and a former student<br> at the University of Georgia.</p>
+    and a former student at the University of Georgia.</p>
   <p>
     <a href="Resume 08-25-2025.docx"> View my resume.</a> </p>
 </body>
