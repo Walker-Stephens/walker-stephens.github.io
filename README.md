@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>Resume</td>
-      <td><a href="Resume 08-25-2025.docx">Resume for Walker Stephens</a></td>
+      <td><a href="IT Resume.docx">Resume for Walker Stephens</a></td>
       <td>Current resume in a format that can be printed or saved for distribution.</td>
     </tr>
     <tr>
